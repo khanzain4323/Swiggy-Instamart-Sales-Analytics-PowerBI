@@ -11,7 +11,6 @@ Explore the live, interactive Power BI report directly in your browser:
 
 src="https://app.powerbi.com/view?r=eyJrIjoiZTBkMDY4YjktYzk1Ny00NjY5LWJiZWYtZDlhMDI0MTBlZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
-![Swiggy Instamart Dashboard Overview](assets/dashboard_overview.png)
 ---
 ## Business Key Performance Indicators (KPIs)
 
