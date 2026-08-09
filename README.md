@@ -2,21 +2,23 @@
 
 An interactive **Power BI** dashboard analyzing sales performance, order distribution, shop sizes, and product category trends for Swiggy Instamart.
 ---
+
 ## Live Interactive Dashboard
 
 Explore the live, interactive Power BI report directly in your browser:
 
-👉 **[Launch Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBkMDY4YjktYzk1Ny00NjY5LWJiZWYtZDlhMDI0MTBlZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+**[Launch Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBkMDY4YjktYzk1Ny00NjY5LWJiZWYtZDlhMDI0MTBlZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
 <iframe width="100%" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiZTBkMDY4YjktYzk1Ny00NjY5LWJiZWYtZDlhMDI0MTBlZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 > **Note:** If the embedded view above does not render in your environment, please use the direct link above to open the report in a new tab.
 ---
-## 🖼️ Dashboard Overview
+
+## Dashboard Overview
 
 ![Swiggy Instamart Dashboard Overview](assets/dashboard_overview.png)
 ---
-## 📊 Business Key Performance Indicators (KPIs)
+## Business Key Performance Indicators (KPIs)
 
 | KPI Metric | Value |
 | :--- | :--- |
