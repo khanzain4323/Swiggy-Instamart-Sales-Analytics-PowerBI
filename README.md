@@ -9,8 +9,6 @@ Explore the live, interactive Power BI report directly in your browser:
 
 **[Launch Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTBkMDY4YjktYzk1Ny00NjY5LWJiZWYtZDlhMDI0MTBlZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
 
-src="https://app.powerbi.com/view?r=eyJrIjoiZTBkMDY4YjktYzk1Ny00NjY5LWJiZWYtZDlhMDI0MTBlZjQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ---
 ## Business Key Performance Indicators (KPIs)
 
